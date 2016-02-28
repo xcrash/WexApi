@@ -21,7 +21,7 @@ namespace BtcE
 {
     public class BtceApi : IDisposable
     {
-        public static string ExchangeHost = "https://btc-e.com/";
+        public static string ExchangeHost = "https://btc-e.nz/";
         private readonly object disposeLock = new object();
         private readonly string instanseExchangeHost;
         private readonly string key;
