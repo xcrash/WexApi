@@ -65,7 +65,7 @@ namespace BtcE
         {
             string pairliststr = MakePairListString(pairlist);
             var sb = new StringBuilder();
-            sb.Append("https://btc-e.com/api/3/");
+            sb.Append("https://wex.nz/api/3/");
             sb.Append(method);
             sb.Append("/");
             sb.Append(pairliststr);
