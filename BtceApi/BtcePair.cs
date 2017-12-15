@@ -23,5 +23,8 @@ namespace BtcE
         trc_btc,
         usd_rur,
         xpm_btc,
+		eth_btc,
+		eth_usd,
+		eth_ltc
     }
 }
