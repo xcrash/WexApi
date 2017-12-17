@@ -1,4 +1,4 @@
-C# API for btc-e.com
+C# API for wex.nz (ex btc-e.com)
 ====================
 
 Authors
