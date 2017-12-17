@@ -13,7 +13,7 @@ namespace BtcE
         /// </summary>
         /// <param name="key">The account key.</param>
         /// <param name="secret">The account secret.</param>
-        /// <param name="exchangeHost">The exchange host (default: "https://btc-e.com/";).</param>
+        /// <param name="exchangeHost">The exchange host (default: "https://wex.nz/";).</param>
         public BtceApiClientV3(string key, string secret, string exchangeHost = null)
         {
             _apiv2 = new BtceApi(key, secret, exchangeHost);

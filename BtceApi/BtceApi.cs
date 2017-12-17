@@ -1,5 +1,5 @@
 /*
- * Base for making api class for btc-e.com
+ * Base for making api class for wex.nz
  * DmT
  * 2012
  */
@@ -21,7 +21,7 @@ namespace BtcE
 {
     public class BtceApi : IDisposable
     {
-        public static string ExchangeHost = "https://btc-e.nz/";
+        public static string ExchangeHost = "https://wex.nz/";
         private readonly object disposeLock = new object();
         private readonly string instanseExchangeHost;
         private readonly string key;

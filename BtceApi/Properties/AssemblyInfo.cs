@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BtceApi")]
-[assembly: AssemblyDescription("Api for btc-e.com")]
+[assembly: AssemblyDescription("Api for wex.nz")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("BtceApi")]

@@ -1,0 +1,8 @@
+﻿## v0.1.0
+* added changelog
+* to work with wex.nz
+* to support eth_btc, eth_usd, eth_ltc
+
+
+## v0.0.1
+* start here
